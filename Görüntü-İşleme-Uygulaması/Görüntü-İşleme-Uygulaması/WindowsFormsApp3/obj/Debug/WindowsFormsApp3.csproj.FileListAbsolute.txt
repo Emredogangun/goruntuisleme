@@ -1,0 +1,40 @@
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\EMRE\Documents\Visual Studio 2017\Backup Files\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\EMRE\Desktop\2.DÖNEM\3.Görüntü İşleme\proje\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Emre\Desktop\goruntuisleme-master\goruntuisleme-master\Görüntü-İşleme-Uygulaması\Görüntü-İşleme-Uygulaması\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
